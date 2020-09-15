@@ -18,6 +18,6 @@ Do run "pod install" before using this project.
 <img src="https://github.com/TeaTalkInternal/github_assets/blob/master/images/moya_tutorial_image.png" height="500em">
 
 
-Sincere credits to Kilo Loco for putting up this tutorial (https://www.youtube.com/watch?v=ldiV554Kk7o&t=1867s). Please use this video as for perfect understanding of Moya framework usage.  
+Sincere credits to Kilo Loco for putting up this tutorial (https://www.youtube.com/watch?v=ldiV554Kk7o&t=1867s). Please use this video for perfect understanding of Moya framework usage.  
  
    
