@@ -13,7 +13,7 @@ This will help you to be focused onkly using Moya and how requests are made. (Ne
 
 Do run "pod install" before using this project.
 
-### Some Screenshots
+### Tutorial App Screenshot
 
 <img src="https://github.com/TeaTalkInternal/github_assets/blob/master/images/moya_tutorial_image.png" height="500em">
 
