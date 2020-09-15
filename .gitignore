@@ -1,0 +1,94 @@
+MoyaTutorial/Pods/Manifest.lock
+MoyaTutorial/Pods/Alamofire/README.md
+MoyaTutorial/Pods/Alamofire/Source/AFError.swift
+MoyaTutorial/Pods/Alamofire/Source/Alamofire.swift
+MoyaTutorial/Pods/Alamofire/Source/AlamofireExtended.swift
+MoyaTutorial/Pods/Alamofire/Source/AuthenticationInterceptor.swift
+MoyaTutorial/Pods/Alamofire/Source/CachedResponseHandler.swift
+MoyaTutorial/Pods/Alamofire/Source/Combine.swift
+MoyaTutorial/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift
+MoyaTutorial/Pods/Alamofire/Source/EventMonitor.swift
+MoyaTutorial/Pods/Alamofire/Source/HTTPHeaders.swift
+MoyaTutorial/Pods/Alamofire/Source/HTTPMethod.swift
+MoyaTutorial/Pods/Alamofire/Source/MultipartFormData.swift
+MoyaTutorial/Pods/Alamofire/Source/MultipartUpload.swift
+MoyaTutorial/Pods/Alamofire/Source/NetworkReachabilityManager.swift
+MoyaTutorial/Pods/Alamofire/Source/Notifications.swift
+MoyaTutorial/Pods/Alamofire/Source/OperationQueue+Alamofire.swift
+MoyaTutorial/Pods/Alamofire/Source/ParameterEncoder.swift
+MoyaTutorial/Pods/Alamofire/Source/ParameterEncoding.swift
+MoyaTutorial/Pods/Alamofire/Source/Protected.swift
+MoyaTutorial/Pods/Alamofire/Source/RedirectHandler.swift
+MoyaTutorial/Pods/Alamofire/Source/Request.swift
+MoyaTutorial/Pods/Alamofire/Source/RequestInterceptor.swift
+MoyaTutorial/Pods/Alamofire/Source/RequestTaskMap.swift
+MoyaTutorial/Pods/Alamofire/Source/Response.swift
+MoyaTutorial/Pods/Alamofire/Source/ResponseSerialization.swift
+MoyaTutorial/Pods/Alamofire/Source/Result+Alamofire.swift
+MoyaTutorial/Pods/Alamofire/Source/RetryPolicy.swift
+MoyaTutorial/Pods/Alamofire/Source/ServerTrustEvaluation.swift
+MoyaTutorial/Pods/Alamofire/Source/Session.swift
+MoyaTutorial/Pods/Alamofire/Source/SessionDelegate.swift
+MoyaTutorial/Pods/Alamofire/Source/StringEncoding+Alamofire.swift
+MoyaTutorial/Pods/Alamofire/Source/URLConvertible+URLRequestConvertible.swift
+MoyaTutorial/Pods/Alamofire/Source/URLEncodedFormEncoder.swift
+MoyaTutorial/Pods/Alamofire/Source/URLRequest+Alamofire.swift
+MoyaTutorial/Pods/Alamofire/Source/URLSessionConfiguration+Alamofire.swift
+MoyaTutorial/Pods/Alamofire/Source/Validation.swift
+MoyaTutorial/Pods/Moya/License.md
+MoyaTutorial/Pods/Moya/Readme.md
+MoyaTutorial/Pods/Moya/Sources/Moya/AnyEncodable.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Cancellable.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Endpoint.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Image.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Moya+Alamofire.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/MoyaError.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/MoyaProvider+Defaults.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/MoyaProvider+Internal.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/MoyaProvider.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/MultipartFormData.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/MultiTarget.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Plugin.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/RequestTypeWrapper.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Response.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/TargetType.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Task.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/URL+Moya.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/URLRequest+Encoding.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/ValidationType.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Plugins/AccessTokenPlugin.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Plugins/CredentialsPlugin.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Plugins/NetworkActivityPlugin.swift
+MoyaTutorial/Pods/Moya/Sources/Moya/Plugins/NetworkLoggerPlugin.swift
+MoyaTutorial/Pods/Pods.xcodeproj/project.pbxproj
+MoyaTutorial/Pods/Pods.xcodeproj/xcuserdata/kevin.saldanha.xcuserdatad/xcschemes/Alamofire.xcscheme
+MoyaTutorial/Pods/Pods.xcodeproj/xcuserdata/kevin.saldanha.xcuserdatad/xcschemes/Moya.xcscheme
+MoyaTutorial/Pods/Pods.xcodeproj/xcuserdata/kevin.saldanha.xcuserdatad/xcschemes/Pods-MoyaTutorial.xcscheme
+MoyaTutorial/Pods/Pods.xcodeproj/xcuserdata/kevin.saldanha.xcuserdatad/xcschemes/xcschememanagement.plist
+MoyaTutorial/Pods/Target Support Files/Alamofire/Alamofire-dummy.m
+MoyaTutorial/Pods/Target Support Files/Alamofire/Alamofire-Info.plist
+MoyaTutorial/Pods/Target Support Files/Alamofire/Alamofire-prefix.pch
+MoyaTutorial/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h
+MoyaTutorial/Pods/Target Support Files/Alamofire/Alamofire.debug.xcconfig
+MoyaTutorial/Pods/Target Support Files/Alamofire/Alamofire.modulemap
+MoyaTutorial/Pods/Target Support Files/Alamofire/Alamofire.release.xcconfig
+MoyaTutorial/Pods/Target Support Files/Moya/Moya-dummy.m
+MoyaTutorial/Pods/Target Support Files/Moya/Moya-Info.plist
+MoyaTutorial/Pods/Target Support Files/Moya/Moya-prefix.pch
+MoyaTutorial/Pods/Target Support Files/Moya/Moya-umbrella.h
+MoyaTutorial/Pods/Target Support Files/Moya/Moya.debug.xcconfig
+MoyaTutorial/Pods/Target Support Files/Moya/Moya.modulemap
+MoyaTutorial/Pods/Target Support Files/Moya/Moya.release.xcconfig
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-acknowledgements.markdown
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-acknowledgements.plist
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-dummy.m
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-frameworks-Debug-input-files.xcfilelist
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-frameworks-Debug-output-files.xcfilelist
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-frameworks-Release-input-files.xcfilelist
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-frameworks-Release-output-files.xcfilelist
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-frameworks.sh
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-Info.plist
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial-umbrella.h
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial.debug.xcconfig
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial.modulemap
+MoyaTutorial/Pods/Target Support Files/Pods-MoyaTutorial/Pods-MoyaTutorial.release.xcconfig

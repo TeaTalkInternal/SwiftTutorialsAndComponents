@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF8A6C6F-ED60-47BF-9F47-1B551A2E91F4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46A4DF67-F43F-4A52-B57D-CB4716ACF7F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaTutorial/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "insertIntoDb(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46A4DF67-F43F-4A52-B57D-CB4716ACF7F1 - c8d6038435b3c8ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoyaTutorial.ViewController.insertIntoDb(Any) -&gt; ()"
+                  moduleName = "MoyaTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevin.saldanha/Documents/WorkSpace/iOS_Learning/MoyaTutorial/MoyaTutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "46A4DF67-F43F-4A52-B57D-CB4716ACF7F1 - 153b6d085fefa4a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in MoyaTutorial.ViewController.insertIntoDb(Any) -&gt; ()"
+                  moduleName = "MoyaTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevin.saldanha/Documents/WorkSpace/iOS_Learning/MoyaTutorial/MoyaTutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "162">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07CD1B6E-B85F-48E2-BEC0-55884D42D204"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaTutorial/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "deleteFromDb(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07CD1B6E-B85F-48E2-BEC0-55884D42D204 - 3762474d9afab212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoyaTutorial.ViewController.deleteFromDb(Any) -&gt; ()"
+                  moduleName = "MoyaTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevin.saldanha/Documents/WorkSpace/iOS_Learning/MoyaTutorial/MoyaTutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "07CD1B6E-B85F-48E2-BEC0-55884D42D204 - b1a6207b30f68e8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in MoyaTutorial.ViewController.deleteFromDb(Any) -&gt; ()"
+                  moduleName = "MoyaTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevin.saldanha/Documents/WorkSpace/iOS_Learning/MoyaTutorial/MoyaTutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA87467E-9D44-4506-903A-EE8EDF90A63F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaTutorial/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "UpadteIntoDb(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA87467E-9D44-4506-903A-EE8EDF90A63F - b86d08605c6880f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in MoyaTutorial.ViewController.UpadteIntoDb(Any) -&gt; ()"
+                  moduleName = "MoyaTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevin.saldanha/Documents/WorkSpace/iOS_Learning/MoyaTutorial/MoyaTutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "FA87467E-9D44-4506-903A-EE8EDF90A63F - b86d08605c6880f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in MoyaTutorial.ViewController.UpadteIntoDb(Any) -&gt; ()"
+                  moduleName = "MoyaTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevin.saldanha/Documents/WorkSpace/iOS_Learning/MoyaTutorial/MoyaTutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "209">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F3FE2D3-7B32-4FEE-B146-9A68B996C887"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaTutorial/Services/UserNetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "headers"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84E3609E-E67B-43F7-88BA-4AE4D6AC817D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaTutorial/Services/UserNetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "headers"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3261F176-B22C-4234-A466-58C8F7410B45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoyaTutorial/Services/UserNetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "task"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3261F176-B22C-4234-A466-58C8F7410B45 - 36292c0956a96c6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoyaTutorial.UserService.task.getter : Moya.Task"
+                  moduleName = "MoyaTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevin.saldanha/Documents/WorkSpace/iOS_Learning/MoyaTutorial/MoyaTutorial/Services/UserNetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "3261F176-B22C-4234-A466-58C8F7410B45 - 36292c0956a96c6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoyaTutorial.UserService.task.getter : Moya.Task"
+                  moduleName = "MoyaTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevin.saldanha/Documents/WorkSpace/iOS_Learning/MoyaTutorial/MoyaTutorial/Services/UserNetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
