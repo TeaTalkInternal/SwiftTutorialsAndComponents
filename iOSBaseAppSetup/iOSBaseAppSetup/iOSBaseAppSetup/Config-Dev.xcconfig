@@ -1,0 +1,14 @@
+//
+//  Config-Dev.xcconfig
+//  iOSBaseAppSetup
+//
+//  Created by Kevin Vishal on 28/09/20.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_API_URL = www.developement.com
+APP_NAME = DevApp
+APP_ICON_NAME = AppIconDev
+APP_BUNDLE_IDENTIFIER = com.tuffytiffany.devapp
