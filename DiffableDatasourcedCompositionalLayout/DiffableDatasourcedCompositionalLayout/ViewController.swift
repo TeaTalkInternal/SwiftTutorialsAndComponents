@@ -54,9 +54,10 @@ class ViewController: UIViewController {
     private func configureCompositionalLayout() -> UICollectionViewLayout {
         
         //Uncomment the following to make a UITableView kind of layout
-        //        let configuration = UICollectionLayoutListConfiguration(appearance: .plain)
-        //        let compositionalLyout : UICollectionViewCompositionalLayout = UICollectionViewCompositionalLayout.list(using: configuration)
-        //        return compositionalLyout
+//        let compositionalLyout : UICollectionViewCompositionalLayout  = {
+//            let configuration = UICollectionLayoutListConfiguration(appearance: .plain)
+//            return UICollectionViewCompositionalLayout.list(using: configuration)
+//        }()
         
         let compositionalLyout : UICollectionViewCompositionalLayout = {
             
