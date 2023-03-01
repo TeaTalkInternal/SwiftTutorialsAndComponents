@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2DEC174E29AF44BB00003A1A /* AppConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEC174D29AF44BB00003A1A /* AppConfiguration.swift */; };
 		99ABD1F12521EDB700BE753C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99ABD1F02521EDB700BE753C /* AppDelegate.swift */; };
 		99ABD1F32521EDB700BE753C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99ABD1F22521EDB700BE753C /* SceneDelegate.swift */; };
 		99ABD1F52521EDB700BE753C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99ABD1F42521EDB700BE753C /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2DEC174D29AF44BB00003A1A /* AppConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfiguration.swift; sourceTree = "<group>"; };
 		99ABD1ED2521EDB700BE753C /* DevApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DevApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99ABD1F02521EDB700BE753C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		99ABD1F22521EDB700BE753C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				99ABD23D2522079400BE753C /* Config-Dev.xcconfig */,
 				99ABD1FE2521EDB900BE753C /* Info.plist */,
 				99ABD24925220FE000BE753C /* AppConfigConstants.swift */,
+				2DEC174D29AF44BB00003A1A /* AppConfiguration.swift */,
 				99ABD24C25220FEF00BE753C /* Utility.swift */,
 			);
 			path = iOSBaseAppSetup;
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DEC174E29AF44BB00003A1A /* AppConfiguration.swift in Sources */,
 				99ABD24D25220FEF00BE753C /* Utility.swift in Sources */,
 				99ABD1F52521EDB700BE753C /* ViewController.swift in Sources */,
 				99ABD1F12521EDB700BE753C /* AppDelegate.swift in Sources */,

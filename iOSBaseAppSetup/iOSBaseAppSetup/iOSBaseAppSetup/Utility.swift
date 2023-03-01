@@ -7,14 +7,15 @@
 
 import Foundation
 
+final class Utility {
 
-struct Utility {
-    
-    static var baseURL : String {
-      let url = Bundle.main.url(forResource: "Info", withExtension: "plist")!
-             guard let data = try? Data(contentsOf: url) else { return "" }
-             let decoder = PropertyListDecoder()
-             let config = try? decoder.decode(AppConfigConstants.self, from: data) as AppConfigConstants
-             return config?.BASE_API_URL ?? ""
+    static let shared = Utility()
+    private init() {}
+
+    var infoPlistData:Data? {
+        let url = Bundle.main.url(forResource: "Info", withExtension: "plist")!
+        return try? Data(contentsOf: url)
     }
 }
+
+

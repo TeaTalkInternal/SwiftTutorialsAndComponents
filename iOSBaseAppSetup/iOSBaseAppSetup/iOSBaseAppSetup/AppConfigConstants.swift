@@ -10,3 +10,10 @@ import Foundation
 struct AppConfigConstants: Decodable {
     let BASE_API_URL: String
 }
+
+extension AppConfigConstants {
+
+    static var baseURL : String? {
+        return AppConfiguration.shared.getAppConfigConstantsFromPlist()?.BASE_API_URL
+    }
+}

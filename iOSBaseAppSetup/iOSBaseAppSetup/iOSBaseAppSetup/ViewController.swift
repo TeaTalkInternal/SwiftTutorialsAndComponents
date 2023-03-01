@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("BASE URL : \(Utility.baseURL)")
+        print("BASE URL : \(AppConfigConstants.baseURL)")
     }
 
 
